@@ -1,0 +1,10 @@
+{
+  "stable": {
+    "version": "1.2.0",
+    "url": "https://github.com/你的帳號/market-pos-releases/releases/download/v1.2.0/市集POS_中樞_v1.2.0.zip",
+    "sha256": "262521d09ef65c1430c87b2af38c1a0ad694b5fa565f0b896c4c86e56244af29",
+    "size": 307457,
+    "date": "2026-08-20",
+    "notes": "新增印表機「整體位置微調」：貼紙裝在印字頭中間時可以校正水平／垂直偏移"
+  }
+}
