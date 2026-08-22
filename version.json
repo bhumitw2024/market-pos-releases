@@ -1,10 +1,10 @@
 {
   "stable": {
-    "version": "1.4.2",
-    "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.2_1.zip",
-    "sha256": "0b30c58500b20c5e649c09c746ff4fb01b56fc35e7f2ca6bd704cd6d6275fd43",
-    "size": 311732,
+    "version": "1.4.3",
+    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.3.zip",
+    "sha256": "f74da2022097b706f5a44f50869e8695589e2743d1a87e4de4202a91d89f4108",
+    "size": 311726,
     "date": "2026-08-22",
-    "notes": "修正 Supabase 同步的 23503 外鍵錯誤（分店／場次沒推上雲端卻設了外鍵，導致訂單一定推不上去）；連線與同步錯誤訊息更清楚"
+    "notes": "修正結帳畫面「先去加點」按鈕沒反應、加點後客群標籤與已選項目消失的問題"
   }
 }
