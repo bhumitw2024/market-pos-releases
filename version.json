@@ -1,10 +1,10 @@
 {
   "stable": {
-    "version": "1.2.0",
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.2.0.zip",
-    "sha256": "262521d09ef65c1430c87b2af38c1a0ad694b5fa565f0b896c4c86e56244af29",
-    "size": 307457,
-    "date": "2026-08-20",
-    "notes": "新增印表機「整體位置微調」：貼紙裝在印字頭中間時可以校正水平／垂直偏移"
+    "version": "1.4.1",
+    "url": "https://raw.githubusercontent.com/你的帳號/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.1.zip",
+    "sha256": "e9739e2fc1404da10f527ba04d05fa58d4cb20660ce4fc087d5e2088cb5347db",
+    "size": 311070,
+    "date": "2026-08-21",
+    "notes": "Supabase 連線錯誤訊息更清楚（403 permission denied 會直接教你先登入或補權限），並在建表 SQL 補上資料表授權，修 42501 錯誤"
   }
 }
