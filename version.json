@@ -1,10 +1,10 @@
 {
   "stable": {
-    "version": "1.4.1",
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.2_1.zip",
-    "sha256": "e9739e2fc1404da10f527ba04d05fa58d4cb20660ce4fc087d5e2088cb5347db",
-    "size": 311070,
-    "date": "2026-08-21",
-    "notes": "Supabase 連線錯誤訊息更清楚（403 permission denied 會直接教你先登入或補權限），並在建表 SQL 補上資料表授權，修 42501 錯誤"
+    "version": "1.4.2",
+    "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.2_1.zip",
+    "sha256": "0b30c58500b20c5e649c09c746ff4fb01b56fc35e7f2ca6bd704cd6d6275fd43",
+    "size": 311732,
+    "date": "2026-08-22",
+    "notes": "修正 Supabase 同步的 23503 外鍵錯誤（分店／場次沒推上雲端卻設了外鍵，導致訂單一定推不上去）；連線與同步錯誤訊息更清楚"
   }
 }
