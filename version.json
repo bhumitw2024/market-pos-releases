@@ -1,10 +1,19 @@
 {
+
   "stable": {
-    "version": "1.4.3",
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.3.zip",
-    "sha256": "f74da2022097b706f5a44f50869e8695589e2743d1a87e4de4202a91d89f4108",
-    "size": 311726,
+
+    "version": "1.4.4",
+
+    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.4.zip",
+
+    "sha256": "c31d65bd217622dcf0a2cc69e233fb188d9a2400bc4e15ab068635b5799ba979",
+
+    "size": 311718,
+
     "date": "2026-08-22",
-    "notes": "修正結帳畫面「先去加點」按鈕沒反應、加點後客群標籤與已選項目消失的問題"
+
+    "notes": "修正加點後回到結帳，應收總額沒有跟著更新的問題"
+
   }
+
 }
