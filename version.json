@@ -1,19 +1,10 @@
 {
-
   "stable": {
-
-    "version": "1.4.7",
-
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.7.zip",
-
-    "sha256": "f7a536039afeed6b936fb57bc7b9972d88e3626ade3a720d66a666086f525255",
-
-    "size": 313017,
-
+    "version": "1.4.8",
+    "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.8.zip",
+    "sha256": "12307022d14c780906e33fd3b3922e5563bf12e686eabc2da7d90c92de74d75d",
+    "size": 314817,
     "date": "2026-08-23",
-
-    "notes": "新增「今天要用哪些物料」勾選功能：備料頁改成只顯示今天這一攤有勾選的品項，不再固定列出全部物料"
-
+    "notes": "1. 標籤修正：整單備註現在會印在每一張標籤上（之前只印這一杯自己的備註，漏了結帳時打的整單備註）\n2. 營運日報 Excel 補上淨利、毛利、總訂單數、總杯數、客單價、零用金結算差額、備料點交彙總與明細、營收時段\n3. 備料新增「點日期看各店面/場次備料狀況」：不受目前營業地點限制，一次看某一天所有攤位的勾選物料與點交進度"
   }
-
 }
