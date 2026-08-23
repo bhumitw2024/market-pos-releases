@@ -2,17 +2,17 @@
 
   "stable": {
 
-    "version": "1.4.4",
+    "version": "1.4.6",
 
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.4.zip",
+    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.6.zip",
 
-    "sha256": "c31d65bd217622dcf0a2cc69e233fb188d9a2400bc4e15ab068635b5799ba979",
+    "sha256": "611aa7412c966145bc47f87ef115e26b2914b14f4034c0aa2100001dd1356464",
 
-    "size": 311718,
+    "size": 312015,
 
-    "date": "2026-08-22",
+    "date": "2026-08-23",
 
-    "notes": "修正加點後回到結帳，應收總額沒有跟著更新的問題"
+    "notes": "修正標籤機「印完再多走紙」每張都套用造成越印越偏、浪費貼紙的問題，改成只在一批的最後一張才多走這段"
 
   }
 
