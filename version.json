@@ -2,17 +2,17 @@
 
   "stable": {
 
-    "version": "1.4.6",
+    "version": "1.4.7",
 
-    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.6.zip",
+    "url": "https://github.com/bhumitw2024/market-pos-releases/raw/refs/heads/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.7.zip",
 
-    "sha256": "611aa7412c966145bc47f87ef115e26b2914b14f4034c0aa2100001dd1356464",
+    "sha256": "f7a536039afeed6b936fb57bc7b9972d88e3626ade3a720d66a666086f525255",
 
-    "size": 312015,
+    "size": 313017,
 
     "date": "2026-08-23",
 
-    "notes": "修正標籤機「印完再多走紙」每張都套用造成越印越偏、浪費貼紙的問題，改成只在一批的最後一張才多走這段"
+    "notes": "新增「今天要用哪些物料」勾選功能：備料頁改成只顯示今天這一攤有勾選的品項，不再固定列出全部物料"
 
   }
 
