@@ -1,10 +1,10 @@
 {
   "stable": {
-    "version": "1.4.18",
-    "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.18.zip",
-    "sha256": "a7c8c20f6c1f78add8c719daaf94a381fad60be9449d15d1c503d3b9787e1db8",
-    "size": 338684,
+    "version": "1.4.20",
+    "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/%E5%B8%82%E9%9B%86POS_%E4%B8%AD%E6%A8%9E_v1.4.20.zip",
+    "sha256": "2b900bab00fb440474829526a084bf13baf93734b600a2ed9a2ca621406d8ad8",
+    "size": 341940,
     "date": "2026-08-24",
-    "notes": "1) 商品「自助排序」改成用 ↑↓ 手動調整上下位置，不用再自己打數字（商品頁新增「↕ 自助點餐排序」按鈕）。2) 加點促成提示大改：不再是同一條規則整單只跳一次，改成客人每次把觸發商品加進購物車就跳出來問；同一個商品如果同時設了「推薦加購商品」跟「推薦加購配料」，會一次全部列出來，用複選方式一次加入多項。"
+    "notes": "自助點餐頁最上面「Bujii自助點餐」下面那行灰色說明文字，現在可以在後台自訂內容了（後台「自助點餐頁外觀」新增一欄）。商品卡片的商品名稱、產品說明（後台商品頁新增「產品描述」欄位）、價格，都可以在後台分別調顏色和字級大小，客人自助點餐頁的畫面就會照設定顯示。"
   }
 }
