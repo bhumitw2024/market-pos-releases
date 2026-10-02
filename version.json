@@ -2,7 +2,7 @@
   "stable": {
     "version": "1.4.32",
     "url": "https://raw.githubusercontent.com/bhumitw2024/market-pos-releases/main/市集POS_中樞_v1.4.32.zip",
-    "sha256": "sha256": "25a5165ac7d04bbeb596c120a9e03aeef5e3e57cf6ca552a3142ce5e526bb58a",
+    "sha256": "25a5165ac7d04bbeb596c120a9e03aeef5e3e57cf6ca552a3142ce5e526bb58a",
     "size": 359036,
     "date": "2026-10-02",
     "notes": "新增：自助點餐手機驗證、點餐畫面外觀可自訂、購物車項目可點一下直接編輯、每天自動備份設定與商品、憑證會記住多個常用網路的IP（減少電腦要重新信任一次的次數）"
